@@ -1,1 +1,3 @@
 Practicas en Git y github
+
+Practica del mini curso Finalizada
